@@ -1,6 +1,6 @@
 name: modern_form_line_awesome_icons
 description: Flutter plugin for the Line Awesome Icon pack as Flutter Icons widget.
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/apps-auth/modern_form_line_awesome_icons
 
 environment:

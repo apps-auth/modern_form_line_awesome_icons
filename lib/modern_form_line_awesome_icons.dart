@@ -4,7 +4,8 @@ import 'package:flutter/widgets.dart';
 class IconDataRegular extends IconData {
   const IconDataRegular(int codePoint)
       : super(codePoint,
-            fontFamily: 'IconFont', fontPackage: 'line_awesome_icons');
+            fontFamily: 'IconFont',
+            fontPackage: 'modern_form_line_awesome_icons');
 }
 
 ///Use this class to generate line awesome icons

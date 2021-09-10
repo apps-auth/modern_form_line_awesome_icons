@@ -12,7 +12,7 @@ https://icons8.com/line-awesome/
 
 ## Usage
 
-To use plugin, just import package `import 'package:line_awesome_icons/line_awesome_icons.dart';`
+To use plugin, just import package `import 'package:modern_form_line_awesome_icons/modern_form_line_awesome_icons.dart';`
 add use it as IconData in Icon widget:
 ```
 Icon(LineAwesomeIcons.reddit, size: 60.0, color: Colors.redAccent))
@@ -21,7 +21,7 @@ Icon(LineAwesomeIcons.reddit, size: 60.0, color: Colors.redAccent))
 ## Example
 ```dart
 import 'package:flutter/material.dart';
-import 'package:line_awesome_icons/line_awesome_icons.dart';
+import 'package:modern_form_line_awesome_icons/modern_form_line_awesome_icons.dart';
 
 void main() => runApp(MyApp());
 

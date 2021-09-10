@@ -1,3 +1,6 @@
+## 2.0.1
+- Fix
+
 ## 2.0.0
 - Forked for null-safety support
 
